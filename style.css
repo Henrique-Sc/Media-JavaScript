@@ -1,0 +1,12 @@
+body {
+    font-family:  arial;
+}
+
+input, button {
+    padding: 5px;
+}
+
+#result {
+    font-family: consolas;
+    visibility: hidden;
+}
