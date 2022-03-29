@@ -6,6 +6,10 @@ input, button {
     padding: 5px;
 }
 
+button {
+    cursor: pointer;
+}
+
 #result {
     font-family: consolas;
     visibility: hidden;
